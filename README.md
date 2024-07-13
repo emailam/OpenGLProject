@@ -27,8 +27,8 @@ The project includes the following features:
    - Use the key 'O' to open the windows at a suitable angle.
    - Use the key 'C' to close the windows at a suitable angle.
 6. Bicycle Transformations:
-   - Use the key 'f' to move the bicycle forward along the X-axis.
-   - Use the key 'b' to move the bicycle backward along the X-axis.
+   - Use the key 'f' to move the bicycle forward.
+   - Use the key 'b' to move the bicycle backward.
    - Use the key 'r' to rotate the right wheel at a suitable angle.
    - Use the key 'l' to rotate the left wheel at a suitable angle.
 
