@@ -39,3 +39,6 @@ The project includes the following features:
 - Use the mouse right button to disable the bicycle animation.
 - Adjust the camera to view the scene from different angles.
 # Constributors
+[Mohamed Khaled](https://github.com/emailam)
+[Karim Hassib](https://github.com/KarimH537)
+[Hazem Waheed](https://github.com/HazemWaheed2050)
